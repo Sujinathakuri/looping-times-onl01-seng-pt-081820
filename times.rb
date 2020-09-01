@@ -5,12 +5,12 @@ def using_times
 	 end
 
 
-to define the helper_method
+to define the method
 
 def 
   
   7.times do
-    puts "Hi"
+    puts "Hiiii"
   end
   
 end 
